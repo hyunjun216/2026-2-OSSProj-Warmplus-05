@@ -51,6 +51,8 @@
 
 ## 1. 프로젝트 명
 
+<img src="Doc/images/onletter_cover.png" alt="On Letter 표지" width="800">
+
 **On Letter (먼저 도착한 편지)**: 도움을 요청하기 전의 청년에게, 실제 손편지를 먼저 건네는 마음 돌봄 웹앱
 
 협력 기관: 사단법인 온기 (카카오 테크포임팩트)
