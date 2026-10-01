@@ -38,7 +38,6 @@
 ![GitHub](.github/assets/badges/github.svg)
 ![Notion](.github/assets/badges/notion.svg)
 ![Slack](.github/assets/badges/slack.svg)
-![KakaoTalk](.github/assets/badges/kakaotalk.svg)
 
 ---
 
