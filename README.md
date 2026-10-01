@@ -20,31 +20,31 @@
 ## 🛠️ Tech
 
 ### Frameworks
-![Next.js](Doc/images/badges/next_js.svg)
-![React](Doc/images/badges/react.svg)
-![TypeScript](Doc/images/badges/typescript.svg)
-![Tailwind CSS](Doc/images/badges/tailwind_css.svg)
-![PWA](Doc/images/badges/pwa.svg)
+![Next.js](.github/assets/badges/next_js.svg)
+![React](.github/assets/badges/react.svg)
+![TypeScript](.github/assets/badges/typescript.svg)
+![Tailwind CSS](.github/assets/badges/tailwind_css.svg)
+![PWA](.github/assets/badges/pwa.svg)
 
 ### Server · AI
-![Vercel](Doc/images/badges/vercel.svg)
-![Supabase](Doc/images/badges/supabase.svg)
-![Claude API](Doc/images/badges/claude_api.svg)
-![Kakao Login](Doc/images/badges/kakao_login.svg)
+![Vercel](.github/assets/badges/vercel.svg)
+![Supabase](.github/assets/badges/supabase.svg)
+![Claude API](.github/assets/badges/claude_api.svg)
+![Kakao Login](.github/assets/badges/kakao_login.svg)
 
 ### Tools
-![Vitest](Doc/images/badges/vitest.svg)
-![Testing Library](Doc/images/badges/testing_library.svg)
-![GitHub](Doc/images/badges/github.svg)
-![Notion](Doc/images/badges/notion.svg)
-![Slack](Doc/images/badges/slack.svg)
-![KakaoTalk](Doc/images/badges/kakaotalk.svg)
+![Vitest](.github/assets/badges/vitest.svg)
+![Testing Library](.github/assets/badges/testing_library.svg)
+![GitHub](.github/assets/badges/github.svg)
+![Notion](.github/assets/badges/notion.svg)
+![Slack](.github/assets/badges/slack.svg)
+![KakaoTalk](.github/assets/badges/kakaotalk.svg)
 
 ---
 
 ## 1. 프로젝트 명
 
-<img src="Doc/images/onletter_cover.png" alt="On Letter 표지" width="800">
+<img src=".github/assets/onletter_cover.png" alt="On Letter 표지" width="800">
 
 **On Letter (먼저 도착한 편지)**: 도움을 요청하기 전의 청년에게, 실제 손편지를 먼저 건네는 마음 돌봄 웹앱
 
