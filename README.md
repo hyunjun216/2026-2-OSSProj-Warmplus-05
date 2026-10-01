@@ -64,7 +64,7 @@
 |---|---|
 | 수행계획서 | [1_1_OSSProj_05_웜플러스_수행계획서.pdf](Doc/1_1_OSSProj_05_웜플러스_수행계획서.pdf) |
 | 수행계획발표자료 | [1_2_OSSProj_05_웜플러스_수행계획발표자료.pptx](Doc/1_2_OSSProj_05_웜플러스_수행계획발표자료.pptx) |
-| 회의록 | [1_3_OSSProj_05_웜플러스_회의록_1차_0914.pdf](Doc/1_3_OSSProj_05_웜플러스_회의록_1차_0914.pdf) |
+| 회의록 | [1차](Doc/1_3_OSSProj_05_웜플러스_회의록_1차.pdf) · [2차](Doc/1_3_OSSProj_05_웜플러스_회의록_2차.pdf) · [3차](Doc/1_3_OSSProj_05_웜플러스_회의록_3차.pdf) · [4차](Doc/1_3_OSSProj_05_웜플러스_회의록_4차.pdf) · [5차](Doc/1_3_OSSProj_05_웜플러스_회의록_5차.pdf) |
 | 설계 문서 | [src/docs/specs/2026-09-26-ongi-webapp-design.md](src/docs/specs/2026-09-26-ongi-webapp-design.md) |
 | 구현 계획 | [src/docs/plans/2026-09-26-ongi-webapp-v1.md](src/docs/plans/2026-09-26-ongi-webapp-v1.md) |
 
