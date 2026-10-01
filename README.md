@@ -20,15 +20,15 @@
 ## 기술 스택
 
 ### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-16.3-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-19.2-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-16.3-333333?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=000000)
+![React](https://img.shields.io/badge/React-19.2-4FB3CC?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-235A97?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3178C6)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-0891A6?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=06B6D4)
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
 
 ### Server · Test
-![Next.js Route Handler](https://img.shields.io/badge/Next.js_Route_Handler-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-5-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Route Handler](https://img.shields.io/badge/Route_Handler-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-5-557A12?style=for-the-badge&logo=vitest&logoColor=white&labelColor=6E9F18)
 ![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)
 
 ### Deploy
