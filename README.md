@@ -19,7 +19,7 @@
 
 ## 🛠️ Tech
 
-### Frontend
+### Frameworks
 ![Next.js](Doc/images/badges/next_js.svg)
 ![React](Doc/images/badges/react.svg)
 ![TypeScript](Doc/images/badges/typescript.svg)
@@ -27,21 +27,14 @@
 ![PWA](Doc/images/badges/pwa.svg)
 
 ### Server · AI
-![Route Handler](Doc/images/badges/route_handler.svg)
-![Claude API](Doc/images/badges/claude_api.svg)
-
-### Auth · DB
+![Vercel](Doc/images/badges/vercel.svg)
 ![Supabase](Doc/images/badges/supabase.svg)
+![Claude API](Doc/images/badges/claude_api.svg)
 ![Kakao Login](Doc/images/badges/kakao_login.svg)
 
-### Test
+### Tools
 ![Vitest](Doc/images/badges/vitest.svg)
 ![Testing Library](Doc/images/badges/testing_library.svg)
-
-### Deploy
-![Vercel](Doc/images/badges/vercel.svg)
-
-### Collaboration
 ![GitHub](Doc/images/badges/github.svg)
 ![Notion](Doc/images/badges/notion.svg)
 ![Slack](Doc/images/badges/slack.svg)
