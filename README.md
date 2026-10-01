@@ -1,23 +1,23 @@
-# On Letter (먼저 도착한 편지)
+# 2026-2-OSSProj-Warmplus-05
 
-도움을 요청하기 전의 청년에게, 실제 손편지를 먼저 건네는 마음 돌봄 웹앱
+동국대학교 2026년 2학기 오픈소스소프트웨어프로젝트 5팀 Warm+ 레포지토리입니다.
 
-동국대학교 2026-2 오픈소스소프트웨어프로젝트 5팀 **Warm+** × **사단법인 온기** (카카오 테크포임팩트)
+## 👋 팀원 소개
 
-## 문제와 방향
+| 이름 | 전공 | 역할 |
+|---|---|---|
+| 조수아 (팀장) | 통계학과 (SWAI 연계전공) | 기획 · 디자인 · 콘텐츠 |
+| 전동현 | 통계학과 (SWAI 연계전공) | 프론트엔드 · 서버 |
+| 박현준 | 통계학과 (SWAI 연계전공) | 리서치 · 데이터 분석 · 안전 검증 |
 
-- 마음이 힘든 청년은 늘었지만, 상담 신청이나 고민 작성까지 가는 첫걸음은 여전히 무겁습니다.
-- 온기우편함은 고민을 먼저 써야 시작되고, 손편지 답장까지 3~4주가 걸립니다.
-- On Letter는 순서를 바꿔, 비슷한 고민에 도착했던 실제 손편지를 먼저 읽게 하고 마음이 준비되면 온기우편함으로 연결합니다.
+## 📁 폴더 구성
 
-## 주요 기능 (계획)
+- `src/`: 팀 프로젝트의 오픈소스 소프트웨어 (On Letter 웹앱, Next.js)
+- `Doc/`: 수행계획서 · 발표자료 · 회의록 등 제출 문서
 
-- 쓰지 않고 고르는 3분 마음 질문 → 비슷한 고민의 온기레터 추천
-- 오목이와 함께하는 오늘의 질문 · 1일 1미션, 미션에 따라 자라는 캐릭터
-- 위기 표현이 감지되면 AI 답장 대신 24시간 도움 기관 안내
-- 마음이 준비되면 온기우편함 고민편지로 연결
+---
 
-## 기술 스택
+## 🛠️ Tech
 
 ### Frontend
 ![Next.js](https://img.shields.io/badge/Next.js-16.3-333333?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=000000)
@@ -26,18 +26,20 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-0891A6?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=06B6D4)
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
 
-### Server · Test
+### Server · AI
 ![Route Handler](https://img.shields.io/badge/Route_Handler-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+
+### Auth · DB
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Kakao Login](https://img.shields.io/badge/Kakao_Login-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=black)
+
+### Test
 ![Vitest](https://img.shields.io/badge/Vitest-5-557A12?style=for-the-badge&logo=vitest&logoColor=white&labelColor=6E9F18)
 ![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)
 
 ### Deploy
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-### 연동 예정
-![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Kakao Login](https://img.shields.io/badge/Kakao_Login-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=black)
 
 ### Collaboration
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -45,20 +47,26 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![KakaoTalk](https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=black)
 
-## 팀원
+---
 
-| 이름 | 역할 |
-|---|---|
-| 조수아 (팀장) | 기획 · 디자인 · 콘텐츠 |
-| 전동현 | 프론트엔드 · 서버 |
-| 박현준 | 리서치 · 데이터 분석 · 안전 검증 |
+## 1. 프로젝트 명
 
-## 폴더 구성
+**On Letter (먼저 도착한 편지)**: 도움을 요청하기 전의 청년에게, 실제 손편지를 먼저 건네는 마음 돌봄 웹앱
 
-- `src/`: 팀 프로젝트의 오픈소스 소프트웨어 (On Letter 웹앱, Next.js)
-- `Doc/`: 수행계획서 · 발표자료 · 회의록 등 제출 문서
+협력 기관: 사단법인 온기 (카카오 테크포임팩트)
 
-## 문서
+## 2. 프로젝트 소개
+
+> 마음이 힘든 청년은 늘었지만, 상담 신청이나 고민 작성까지 가는 첫걸음은 여전히 무겁다. 온기우편함도 고민을 먼저 써야 시작되고, 손편지 답장까지 3~4주가 걸린다. On Letter는 순서를 바꿔, 비슷한 고민에 도착했던 실제 손편지를 먼저 읽게 하고 마음이 준비되면 온기우편함으로 연결한다.
+
+## 3. 주요 기능 (계획)
+
+- 쓰지 않고 고르는 3분 마음 질문 → 비슷한 고민의 온기레터 추천
+- 오목이와 함께하는 오늘의 질문 · 1일 1미션, 미션에 따라 자라는 캐릭터
+- 위기 표현이 감지되면 AI 답장 대신 24시간 도움 기관 안내
+- 마음이 준비되면 온기우편함 고민편지로 연결
+
+## 4. 문서
 
 | 구분 | 파일 |
 |---|---|
@@ -75,7 +83,7 @@
 | 기존 | 온기 웹앱 v1 소스 코드, 실행 방법 |
 | 변경 (제안발표) | 과제 폴더 구성에 맞춰 `src/` · `Doc/`로 정리, 프로젝트 소개 · 기술 스택 · 팀원 · 문서 링크 추가, 제안발표 문서(수행계획서 · 발표자료 · 회의록) 업로드 |
 
-## 온기 웹앱 실행 방법
+## 5. 온기 웹앱 실행 방법
 
 ### 더블클릭으로 실행
 - **Mac**: `src/온기실행_Mac.command` 더블클릭 → 터미널 창이 열리고, 준비되면 브라우저가 자동으로 열려요.
