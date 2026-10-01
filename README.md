@@ -20,32 +20,32 @@
 ## 🛠️ Tech
 
 ### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-16.3-333333?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=000000)
-![React](https://img.shields.io/badge/React-19.2-4FB3CC?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-5-235A97?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3178C6)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-0891A6?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=06B6D4)
-![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
+![Next.js](Doc/images/badges/next_js.svg)
+![React](Doc/images/badges/react.svg)
+![TypeScript](Doc/images/badges/typescript.svg)
+![Tailwind CSS](Doc/images/badges/tailwind_css.svg)
+![PWA](Doc/images/badges/pwa.svg)
 
 ### Server · AI
-![Route Handler](https://img.shields.io/badge/Route_Handler-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Route Handler](Doc/images/badges/route_handler.svg)
+![Claude API](Doc/images/badges/claude_api.svg)
 
 ### Auth · DB
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Kakao Login](https://img.shields.io/badge/Kakao_Login-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=black)
+![Supabase](Doc/images/badges/supabase.svg)
+![Kakao Login](Doc/images/badges/kakao_login.svg)
 
 ### Test
-![Vitest](https://img.shields.io/badge/Vitest-5-557A12?style=for-the-badge&logo=vitest&logoColor=white&labelColor=6E9F18)
-![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)
+![Vitest](Doc/images/badges/vitest.svg)
+![Testing Library](Doc/images/badges/testing_library.svg)
 
 ### Deploy
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Vercel](Doc/images/badges/vercel.svg)
 
 ### Collaboration
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![KakaoTalk](https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=black)
+![GitHub](Doc/images/badges/github.svg)
+![Notion](Doc/images/badges/notion.svg)
+![Slack](Doc/images/badges/slack.svg)
+![KakaoTalk](Doc/images/badges/kakaotalk.svg)
 
 ---
 
